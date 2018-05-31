@@ -11,7 +11,7 @@ title: Approaching Nature and Empire in Pliny the Elder through Manuscripts
 
 ## Getting Started ##
 - [prerequisite technologies](setup)
-- [the manuscript](link)
+- [the manuscript](Pliny)
 - [how we edit](editions)
 
 ## Concluding Thoughts ##
