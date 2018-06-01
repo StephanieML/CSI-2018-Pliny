@@ -7,12 +7,19 @@
 3. enter these commands (you can copy and paste the whole list)
 
 `apm install intentions`
+
 `apm install busy-signal`
+
 `apm install linter`
+
 `apm install linter-ui-default`
+
 `apm install linter-autocomplete-jing`
+
 `apm install atom-xsltransform`
+
 `apm install tablr`
+
 `apm install xml-formatter`
 
 4. Download the file atom-tablr-conf.cson, and copy it to atom’s default location for config files. You can do that with the `cp` command in your terminal.
