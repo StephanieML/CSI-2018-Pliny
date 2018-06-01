@@ -1,9 +1,4 @@
----
-layout: page
-title: Approaching Nature and Empire in Pliny the Elder through Manuscripts 
----
-
-# Welcome to the CSI 2018 Pliny the Elder Manscripts Workshop #
+# Approaching Nature and Empire in Pliny the Elder through Manuscripts 
 
 ## What will we do today?
 - learn about some exciting research that is going on at [Holy Cross](http://hcmid.github.io/)
