@@ -22,7 +22,9 @@
 
 `apm install xml-formatter`
 
-4. Download the file [atom-tablr-conf.cson](http://hcmid.github.io/tech/atom-tablr-conf.cson), and copy it to atom’s default location for config files. You can do that with the `cp` command in your terminal.
+4. Download the file [atom-tablr-conf.cson](http://hcmid.github.io/tech/atom-tablr-conf.cson), change directories to your Downloads folder, and copy it to atom’s default location for config files. You can do that with the `cd` and `cp` commands in your terminal.
+
+`cd Downloads` 
 
 `cp atom-tablr-conf.cson $HOME/.atom/config.cson`
 
