@@ -30,6 +30,6 @@
 
 (Gotcha: if your browser renames your file for you when you download – e.g., if it calls it atom-tablr-conf.txt – it, you’ll have to use the name it chose instead of atom-tablr-conf.cson.)
 
-5. Add the [linter-autocomplete-jing plugin](https://github.com/aerhard/linter-autocomplete-jing)
+5. Add the [linter-autocomplete-jing plugin](https://github.com/aerhard/linter-autocomplete-jing). You can choose to download it as a zip file by clicking the green button.
 
-6. Install [this package](https://github.com/neelsmith/atomic-tei) for automatic validation of documents following the Text Encoding Initiative (TEI) schema
+6. Install [this package](https://github.com/neelsmith/atomic-tei) for automatic validation of documents following the Text Encoding Initiative (TEI) schema. Again, just download the zip file and keep it somewhere on your computer. 
