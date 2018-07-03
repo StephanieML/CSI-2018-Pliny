@@ -1,4 +1,7 @@
-# Your resources for Pliny things
-
-- [HCMID's Team](https://github.com/HCMID/plinius)
-- [what you'll be editing today](handydandylink)
+# Your assignments for editing
+ - Team A - [text A](link) on [folio A](link)
+ - Team B - [text B](link) on [folio B](link)
+ - Team C - [text C](link) on [folio C](link)
+ - Team D - [text D](link) on [folio D](link)
+ - Team E - [text E](link) on [folio E](link)
+ - Team F - [text F](link) on [folio F](link)
