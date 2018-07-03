@@ -8,6 +8,7 @@
 - learn how you can bring that kind of research into your classrooms by doing some real mauscript editing today!
 
 ## Getting Started ##
+- [the manuscript](team)
 - [assignments](Pliny)
 - [how we edit](editions)
 
