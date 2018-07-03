@@ -8,4 +8,4 @@ What you saw today was a fraction of what goes into an edition. When not constra
 
 ## Why do we do this?
 1. Creating an edition in this structure makes it easier for us to validate and verify our work
-2. A citable, navigable edition allows us to generate and answer new research questions about the text. See some examples of what the Pliny team has been working on [here](link?)
+2. A citable, navigable edition allows us to generate and answer new research questions about the text. See some examples of what the Pliny team has been working on [here](https://hcmid.github.io/plinius/)
