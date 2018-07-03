@@ -2,7 +2,7 @@
 
 ## Background Principles ##
 - diplomatic editions
-- what is [XML and TEI](example)?
+- what is [XML and TEI](https://github.com/HCMID/plinius/blob/master/editions/bamberg/pliny.xml)?
 
 ## Procedures ##
 1. locate your assigned section of the manuscript
