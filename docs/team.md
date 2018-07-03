@@ -14,4 +14,4 @@ Pliny's massive work in 37 books is extracted and abridged in many manuscripts. 
 
 Our team's [repository](https://github.com/HCMID/plinius).
 
-Richard and Michael will explain some of the work they've been doing this summer, which they're noting on their [project blog](link).
+Richard and Michael will explain some of the work they've been doing this summer, which they're noting on their [project website](https://hcmid.github.io/plinius/).
