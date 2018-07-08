@@ -7,7 +7,7 @@ Pliny's massive work in 37 books is extracted and abridged in many manuscripts. 
 
 ## The Manuscripts ##
 
-1. Bamberg Msc.Class.42
+1. Bamberg Msc.Class.42 **We'll be looking at this manuscript today**
 2. Leiden, Voss. Lat. F.4
 
 ## Work at Holy Cross ##
