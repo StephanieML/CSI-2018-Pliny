@@ -9,8 +9,8 @@
 
 ## Getting Started ##
 - [the manuscript](team)
-- [assignments](Pliny)
 - [how we edit](editions)
+- [assignments](Pliny)
 
 ## Concluding Thoughts ##
 - [Next steps in terms of editing](total)
