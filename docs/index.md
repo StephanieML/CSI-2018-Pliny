@@ -18,3 +18,8 @@
 - [Next steps in terms of editing](total)
 - [Next steps for your classroom](resources)
 
+## Contact the Presenter ##
+
+Stephanie Lindeborg can be reached at **steph.m.linde@gmail.com**. Feel free to follow me on Twitter @Steph_Linde (I post about manuscripts, teaching, and sometimes cats)  
+
+
