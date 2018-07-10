@@ -1,5 +1,7 @@
 # Approaching Nature and Empire in Pliny the Elder through Manuscripts 
 
+# https://stephanieml.github.io/CSI-2018-Pliny/ # 
+
 ## Pre-Workshop Set Up - 10 minutes ##
 - [prerequisite technologies](setup)
 
