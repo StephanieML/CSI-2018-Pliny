@@ -13,4 +13,4 @@ Today we will look at [Book 36 chapters 72-77](http://penelope.uchicago.edu/Thay
  - Team I - Egyptian Pyramids 36.81 on [folio 118v](http://www.homermultitext.org/ict2/?urn=urn:cite2:bamberg:sbb104imgs.v1:sbb00000104_00240) and [folio 119r](http://www.homermultitext.org/ict2/?urn=urn:cite2:bamberg:sbb104imgs.v1:sbb00000104_00241)
  - Team J - Egyptian Pyramids 36. 82 on [folio 119r](http://www.homermultitext.org/ict2/?urn=urn:cite2:bamberg:sbb104imgs.v1:sbb00000104_00241)
  - Team K - The Pharos of Alexandria 36.83 on [folio 119r](http://www.homermultitext.org/ict2/?urn=urn:cite2:bamberg:sbb104imgs.v1:sbb00000104_00241)
- - Team L - The Egyptian Labyrinth 36.84 on [folio 119r](http://www.homermultitext.org/ict2/?urn=urn:cite2:bamberg:sbb104imgs.v1:sbb00000104_00241) and c([folio 119v](http://www.homermultitext.org/ict2/?urn=urn:cite2:bamberg:sbb104imgs.v1:sbb00000104_00242)
+ - Team L - The Egyptian Labyrinth 36.84 on [folio 119r](http://www.homermultitext.org/ict2/?urn=urn:cite2:bamberg:sbb104imgs.v1:sbb00000104_00241) and [folio 119v](http://www.homermultitext.org/ict2/?urn=urn:cite2:bamberg:sbb104imgs.v1:sbb00000104_00242)
